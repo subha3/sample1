@@ -6,3 +6,4 @@ Student Detail:
 3)Roll no
 4)class
 Employee Details:
+1)Name
