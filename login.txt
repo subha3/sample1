@@ -8,4 +8,7 @@ Student Detail:
 Employee Details:
 1)Name
 2)Address
-2)salary=100
+2)salary=200
+
+
+
